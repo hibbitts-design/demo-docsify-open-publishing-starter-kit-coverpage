@@ -1,8 +1,8 @@
 # 💻
 
-# My Open Publishing Space
+# Open Education Essentials
 
-> Create, Share and Collaborate
+> A Practical Guide for Educators
 
-[Explore](#my-open-publishing-space)
+[Start Reading](what-is-open-education/README.md)
 [GitHub](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
