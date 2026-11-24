@@ -17,6 +17,3 @@
   - [Overview](growing-your-guide/README.md)
   - [Blogging Alongside Your Guide](growing-your-guide/blogging-alongside-your-guide.md)
   - [When to Move to Helios Open Reader](growing-your-guide/when-to-move-to-helios-open-reader.md)
-- **Project Info**
-  - [GitHub Repository](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/)
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/main/README.md)
